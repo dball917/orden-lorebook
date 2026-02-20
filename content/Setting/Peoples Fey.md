@@ -1,0 +1,9 @@
+The peoples now residing in [[Orden]] who were once of the Feywild.
+
+Trapped on the Prime Material plane long ago by the [[Conjunction of Planes]], the Peoples Fey are strangers in a strange land. They have conflicted mightily with the [[Peoples Ordenary]], particularly with the [[Human]] nations. The Peoples Fey include:
+
+* [[Elf|Elves]]: The elves are the undisputed ruling class among the Peoples Fey. They have long, nearly immortal lifespans and feel quite alien by [[Human]] standards. Their innate mastery of magic makes them powerful but their relatively small numbers make them vulnerable.
+* [[Gnome|Gnomes]]: As close to a peer among the Fey that the Elves have, the Gnomes are the masters of [[Artifice|artifice]] particularly where it concerns constructs and artificial creatures. They often serve as the more public face of the Fey and share a similar subterranean heritage to the [[Dwarf|Dwarves]]
+* [[Goblin|Goblins]]: A group that includes not just the prototypical Goblin, but also Bugbears and Hobgoblins, the Goblins are the rank and file of the Fey. During the [[Wars of Dominance]], bands of Goblins marched into the southern lands of Orden and some assimilated into the cultures of the [[Peoples Ordenary]]. No matter where they reside, Goblins are a peoples without a home of their own and tend to be relegated to lower castes of society
+
+Additional Fey peoples include the [[Fairyfolk]] (like Fairies, Pixies, and Satyrs), Hags, and other races with Feywild backgrounds. Many of these less populous peoples still have access to the Feywild itself, though a fractured, dim version of it.
