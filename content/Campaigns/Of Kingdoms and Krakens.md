@@ -1,7 +1,8 @@
 "Of Kingdoms and Krakens" is the first campaign set in the world of [[Orden]].
 
 [[Session Notes/OKK|Session Notes]]
-[[People/Player Characters|PCs]]
+
+[[Setting/People/Player Characters|PCs]]
 ## Tone
 The campaign is like _Pirates of the Caribbean_ with some of the fantastical feel of the _One Piece_ world and your typical _D&D_ tropes, but  with political undertones from the larger world/setting. 
 
