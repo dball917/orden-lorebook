@@ -8,7 +8,7 @@ Crestfall is is primarily in the northern hemisphere of [[Orden]], and is border
 The following nations are considered part of the region of Crestfall:
 * [[Crestfillia]]: Sometimes referred to as "The New Empire" or  simply "Crest" (thought the later is used inside the nation itself almost exclusively), this nation considers itself the true heir to the [[Empire of Crest]] and its ruler a direct descendant of the [[Last Emperor]]. It is located in the northern region of Crestfall and borders [[Trill]]
 * [[Trill]]: The Great Duchy of Trill is the other major northern nation in Crestfall and is a power in a delicate balance with [[Crestfillia]]. It is rule by the [[Grand Duke of Trill]] but there are many other influential Dukes and Duchesses.
-* The [[Ironwood Concordant]]: A group of allied city-states located in the southern stretches of Crestfall that have banded together in order to ensure their mutual independence from a resurgent [[Crestfillia]] or [[Trill]]. The primary cities of the concordant are [[Cutlass]], [[Fort Prosperity]], and [[Gaunthollow]].
+* The [[Ironwood Concordant]]: A group of allied city-states located in the southern stretches of Crestfall that have banded together in order to ensure their mutual independence from a resurgent [[Crestfillia]] or [[Trill]]. The primary cities of the concordant are [[Cutlass]], [[Fort Prosperity]], and [[Blackbark]].
 
 ## Other Notable Locations
 
